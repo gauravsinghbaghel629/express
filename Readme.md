@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+## Gaurav Singh Baghel
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
